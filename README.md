@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olalekan Fadele</h1>
 <h3 align="center">A passionate DevOps engineer</h3>
 
-- 🔭 I’m currently working an active contributor for [openupthecloud](https://github.com/openupthecloud) community. Would love collaborating on other open-source projects :)
+- 🔭 I’m currently an active contributor for [openupthecloud](https://github.com/openupthecloud) community. Would love collaborating on other open-source projects :)
 
 - 🌱 I’m currently learning **AWS and improving my cloud and automation skills**
 
